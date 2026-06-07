@@ -1,5 +1,14 @@
+### 📝 To-Do List Application
 
-• Developed a simple task management application.
-• Implemented features to add, view, and delete tasks.
-• Designed a clean and user-friendly interface using HTML and CSS.
-• Applied Python programming concepts for task management functionality.
+A simple task management application built using HTML, CSS, and Python.
+
+#### Features
+- ➕ Add new tasks
+- 📋 View task list
+- ❌ Delete completed tasks
+- 🎨 Simple and user-friendly interface
+
+#### Technologies Used
+- HTML
+- CSS
+- Python
